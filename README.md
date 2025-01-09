@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepakr136
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me - Deepakr136@gmail.com
 
